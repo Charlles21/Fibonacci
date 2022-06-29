@@ -14,6 +14,7 @@ public class App {
         System.out.println("Digite o Numero a ser procurado nesta seguencia");       
         parada = input.nextInt();
         
+        
        
         
         if(Fibonacci(inicio, parada) == parada){
